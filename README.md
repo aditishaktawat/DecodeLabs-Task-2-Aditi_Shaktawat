@@ -137,7 +137,7 @@ The project includes:
 
 ### Order Status Analysis
 
-![Order Status](Visualizations/order_status.png)
+![Order Status](Visualizations/Order_Status_.png)
 
 
 ### Monthly Revenue Trend Analysis
